@@ -2,27 +2,25 @@ to-do:
 
 1. pictures/video situation
 	-add more images
-	-clean up current lightbox situation...
+	-clean up current lightbox situation... also, why did keyboard shortcut die?
 	-facebook video embed?
 	-chronological order probably...
 
-2. jumbotron slider
-	http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/
-
+2. jumbotron
+	-slide/fastscroll...: http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/
+	-fade in?: index.js
+	-maybe edit again, have the text be wide across; maybe be more centered?
+	-eliminate most of jumbotron from all but index.
 
 3. collapsible menu
 	http://stackoverflow.com/questions/23109704/makes-nav-pills-collapsable-just-like-nav-bar-in-bootstrap
 
 4. location/schedule page
-	-google maps embed.
-	-basic schedule.
-	-link to twitter for cancellations.
+	-schedule should be beside map.
+	-link to twitter for cancellations?
 		-set up twitter auto-post to facebook. Or something.
 
 5. content for main page
-	
-	-Judo History
-	-Our History
 
 6. contact page
 	
