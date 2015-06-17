@@ -1,10 +1,29 @@
-to-do
+to-do:
 
-pictures/video situation
+1. pictures/video situation
+	-add more images
+	-clean up current lightbox situation... also, why did keyboard shortcut die?
+	-facebook video embed?
+	-chronological order probably...
 
-jumbotron slider
+2. jumbotron
+	-slide/fastscroll...: http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/
+	-fade in?: index.js
+	-maybe edit again, have the text be wide across; maybe be more centered?
+	-eliminate most of jumbotron from all but index.
 
-collapsible menu
+3. collapsible menu
+	http://stackoverflow.com/questions/23109704/makes-nav-pills-collapsable-just-like-nav-bar-in-bootstrap
 
-location/schedule page
+4. location/schedule page
+	-schedule should be beside map.
+	-link to twitter for cancellations?
+		-set up twitter auto-post to facebook. Or something.
 
+5. content for main page
+
+6. contact page
+	
+	-email form; contact taylor to ask about how-to do php server side stuff?
+		-http://stackoverflow.com/questions/8239782/how-to-create-an-email-form-that-can-send-email-using-html
+	-facebook group link
