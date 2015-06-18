@@ -1,3 +1,3 @@
 $(document).ready(function(){
-	$('#jumbo').fadeOut('slow');
+	$('#jumbo').addClass('load');
 })
