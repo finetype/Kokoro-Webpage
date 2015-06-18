@@ -6,13 +6,28 @@ body {
 h1 {
 	text-align:center;
 	font-weight:bold;
+  font-family:'Orbitron', sans-serif;
+}
+
+h2 {
+  font-family:'Orbitron', sans-serif;
 }
 
 p {
-	font-family: sans-serif;
+	font-family: 'Cabin', sans-serif;
   margin-left: 20%;
   margin-right: 20%;
   font-size: 14px;
+}
+
+li {
+  font-family: 'Cabin', sans-serif;
+}
+
+.caption {
+  font-size:12px;
+  text-align:center;
+
 }
 
 .thumbnail {
