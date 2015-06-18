@@ -2,28 +2,29 @@ to-do:
 
 1. pictures/video situation
 	-add more content... How to go about in the future?
-	-clean up current lightbox situation... also, why did keyboard shortcut die?
-	-facebook video embed?
-	-chronological order probably...
+	-clean up current lightbox situation... also, why did keyboard shortcut die? probably my find & replace "img1" -> "img5" with "content1" -> "content5"
+	-facebook video embeds? private group... probably need to upload them to youtube...
+	-chronological order.
+	-doesn't have to be everything, just highlights.
 
 2. jumbotron
 	-slide/fastscroll...: http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/
 	-fade in?: index.js
 	-maybe edit again, have the text be wide across; maybe be more centered?
-	-eliminate most of jumbotron from all but index.
-	-could create several jumbotron images, have different ones show up at different times.
+	-could create several jumbotron images, have different ones show up at different times... perhaps overkill... 
+	-FONT SITUATION. NEED BETTER FONTS.
 
 3. collapsible menu
 	http://stackoverflow.com/questions/23109704/makes-nav-pills-collapsable-just-like-nav-bar-in-bootstrap
 
 4. location/schedule page
-	-link to twitter for cancellations?
-		-set up twitter auto-post to facebook. Or something.
-	-responsive map
+	-google calendar
+	-responsive map/calendar
 
 5. Main page
 	-content
 	-center founder's picture, make responsive...
+	-fade in jumbotron
 
 6. contact page
 	
@@ -31,6 +32,11 @@ to-do:
 		-http://stackoverflow.com/questions/8239782/how-to-create-an-email-form-that-can-send-email-using-html
 	-maybe a pretty FB logo for the group that people can click on?
 
-7. Blog?
+7. Announcements page.
+	-needs to be very clear, obvious html, so that Glenn can edit it in a straightforward way.
+
+8. Archive page, where old announcements get saved to.
+	-essentially old announcements will be cut/pasted there, with some recycled html to make a division between sections. Also needs to be very clear, obvious html.
 
 8. Kids program page.
+	-need info from Dario.
