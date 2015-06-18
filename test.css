@@ -26,8 +26,9 @@ body {
 .jumbotron{
   margin-bottom:0 !important;
   background:rgba(50,50,50,.2) !important;
-  padding-top:5;
-  padding-bottom:15;
+  padding-top:25;
+  padding-bottom:75;
+  height:150px;
 }
 .fluid_container{
   background:rgb(15,16,18);
